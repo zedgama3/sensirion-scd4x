@@ -1,0 +1,2 @@
+version: "0.0.1"
+description: "Sensirion SCD4x CO2 sensor driver"
